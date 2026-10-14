@@ -45,7 +45,7 @@ export function AdminShell({ children }: { children: ReactNode }) {
             href="/dashboard"
             className="text-lg font-semibold tracking-tight text-ink"
           >
-            IAG <span className={collapsed ? "hidden" : "font-normal text-slate-400"}>workspace</span>
+            JBA <span className={collapsed ? "hidden" : "font-normal text-slate-400"}>workspace</span>
           </Link>
           <button type="button" className="hidden rounded-lg p-2 text-slate-500 hover:bg-slate-100 lg:inline-flex" aria-label={collapsed ? "Expand menu" : "Collapse menu"} onClick={() => setCollapsed((value) => !value)}>{collapsed ? "→" : "←"}</button>
           <button onClick={signOut} className="ml-auto rounded-lg px-3 py-2 text-sm font-medium text-slate-600 hover:bg-slate-100 hover:text-ink lg:fixed lg:right-6 lg:top-3" aria-label="Sign out">Sign out</button>

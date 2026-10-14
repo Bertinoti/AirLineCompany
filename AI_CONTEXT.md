@@ -2,7 +2,7 @@
 
 ## Repository and purpose
 
-Repository: `C:\Users\jeffe\Documents\GitHub\IAG`.
+Repository: `C:\Users\jeffe\Documents\GitHub\JBA`.
 
 This is a small, explainable local demo for configuring and using an AI agent that answers airline questions. The public surface is `/chat`; the administrator backoffice contains `/login`, `/dashboard`, `/agent`, `/airlines`, `/conversations`, and conversation detail.
 

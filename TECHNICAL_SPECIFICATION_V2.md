@@ -4,7 +4,7 @@
 **Version:** 2.0  
 **Purpose:** Technical specification for a local demo and portfolio project
 
-**Implementation target:** `C:\Users\jeffe\Documents\GitHub\IAG`
+**Implementation target:** `C:\Users\jeffe\Documents\GitHub\JBA`
 
 ## 1. Objective
 
@@ -12,7 +12,7 @@ Build a full-stack application for configuring and using an AI agent that answer
 
 The application must demonstrate the technologies required by the job description while remaining small, understandable, locally executable, testable, and prepared for future AWS deployment.
 
-The project will reuse the organizational model of the existing `Base_Node_React` project: phased prompts, a project context file, separate frontend/backend agent instructions, skills, explicit approval points, and a final acceptance checklist. Its technology choices and product functionality will be specific to this airline project. `Base_Node_React` is reference material only; implementation will take place in the `IAG` directory.
+The project will reuse the organizational model of the existing `Base_Node_React` project: phased prompts, a project context file, separate frontend/backend agent instructions, skills, explicit approval points, and a final acceptance checklist. Its technology choices and product functionality will be specific to this airline project. `Base_Node_React` is reference material only; implementation will take place in the `JBA` directory.
 
 ## 2. Scope
 
